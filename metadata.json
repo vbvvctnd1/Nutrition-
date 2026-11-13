@@ -1,0 +1,6 @@
+{
+  "name": "НутриПлан — Ассистент тренера по питанию",
+  "description": "Профессиональный инструмент для персональных тренеров: расчёт КБЖУ, анализ пищевых привычек, генерация рационов с Gemini AI и экспорт в PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
